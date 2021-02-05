@@ -13,7 +13,6 @@
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.7",
-    "bootstrap": "^4.6.0",
     "node-sass": "4.13.1",
     "paramex": "git+ssh://git@github.com:malfianrasyidin/paramex.git",
     "react": "^17.0.1",
